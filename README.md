@@ -1,24 +1,7 @@
-# README
+# Odin Re-former
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### **A Ruby On Rails Project Made for Learning Rails Forms.**
 
-Things you may want to cover:
+This is part of the Forms project in The Odin Project's Ruby On Rails Curriculum. Find it at https://www.theodinproject.com/lessons/ruby-on-rails-forms.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<div style="text-align: right"><strong>By Ahmed Hannan</strong></div>
